@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\bin\Debug\Relógio Digital.exe.config
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\bin\Debug\Relógio Digital.exe
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\bin\Debug\Relógio Digital.pdb
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio Digital.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio_Digital.Form1.resources
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio_Digital.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio Digital.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio Digital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio Digital.exe
+C:\Users\Usuario\Downloads\Relógio Digital\Relógio Digital\obj\Debug\Relógio Digital.pdb
